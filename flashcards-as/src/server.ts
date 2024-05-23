@@ -16,4 +16,6 @@ app.listen(PORT, '0.0.0.0',  () => {
 // tsc C:path/server.ts
 
 // node server.ts
+
+//npx ts-node src/server.ts
 // http://localhost:3000/
